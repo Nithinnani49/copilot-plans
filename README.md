@@ -1,6 +1,4 @@
-# copilot-plans
-Plans and documentation for Copilot features
-Here’s a complete self-contained game. Save it as `index.html` and open it in any modern desktop or mobile browser.
+
 
 ```html
 <!doctype html>
